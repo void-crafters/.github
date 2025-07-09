@@ -1,6 +1,6 @@
 <!-- Banner superior personalizado (puedes subir una imagen estilo espacio o vacío) -->
 <p align="center">
-  <img src="https://your-cdn.com/path-to-void-banner.png" alt="Void Crafters Banner" width="100%" />
+  <img src="void-logo.png" alt="Void Crafters Banner" width="100%" />
 </p>
 
 <h1 align="center">🌌 <span style="color:#c084ff;">Void Crafters</span> – Product Development in the Void</h1>
