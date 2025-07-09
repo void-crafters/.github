@@ -62,7 +62,7 @@ At VoidTech, we embrace **Extreme Programming (XP)** — a lightweight, highly e
 
 <!-- Banner inferior decorativo -->
 <p align="center">
-  <img src="rounded_bottom_banner" alt="Void Crafters Universe" width="80%" style="border-radius: 12px;" />
+  <img src="rounded_bottom_banner.png" alt="Void Crafters Universe" width="80%" style="border-radius: 12px;" />
 </p>
 
 <p align="center">
