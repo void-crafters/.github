@@ -1,6 +1,6 @@
 <!-- Banner superior personalizado (puedes subir una imagen estilo espacio o vacío) -->
 <p align="center">
-  <img src="rounded-void-banner.png" alt="Void Crafters Banner" width="100%" />
+  <img src="rounded_void_banner.png" alt="Void Crafters Banner" width="100%" />
 </p>
 
 <h1 align="center">🌌 <span style="color:#c084ff;">Void Crafters</span> – Product Development in the Void</h1>
@@ -62,7 +62,7 @@ At VoidTech, we embrace **Extreme Programming (XP)** — a lightweight, highly e
 
 <!-- Banner inferior decorativo -->
 <p align="center">
-  <img src="rounded_void-banner-bottom.png" alt="Void Crafters Universe" width="80%" style="border-radius: 12px;" />
+  <img src="rounded_void_banner_bottom.png" alt="Void Crafters Universe" width="80%" style="border-radius: 12px;" />
 </p>
 
 <p align="center">
