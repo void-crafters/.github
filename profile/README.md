@@ -71,10 +71,10 @@ At VoidTech, we embrace **Extreme Programming (XP)** — a lightweight, highly e
 
 <!-- Banner inferior decorativo -->
 <p align="center">
-  <img src="https://your-cdn.com/path-to-bottom-space-image.png" alt="Void Crafters Universe" width="80%" />
+  <img src="void-banner-bottom.png" alt="Void Crafters Universe" width="80%" />
 </p>
 
 <p align="center">
   <em style="color:#e0d5ff;">Void isn’t empty — it’s full of potential.</em><br/>
-  <strong style="color:#c084ff;">— The VoidTech Team</strong>
+  <strong style="color:#c084ff;">— The Void Crafters Team</strong>
 </p>
