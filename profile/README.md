@@ -60,13 +60,14 @@ At VoidTech, we embrace **Extreme Programming (XP)** — a lightweight, highly e
 
 ---
 
+<!-- 
 ## 📡 Contact & Links
 
 - 🌍 Website: [#](#) <!-- update with real link -->
 - 🧑‍🚀 Team: `coming soon`
 - 🛸 Projects: `check pinned repos`
 - 📫 Email: `hello@voidtech.dev`
-
+-->
 ---
 
 <!-- Banner inferior decorativo -->
