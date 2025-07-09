@@ -1,12 +1,6 @@
 <!-- Banner superior personalizado (puedes subir una imagen estilo espacio o vacío) -->
 <p align="center">
-  <svg width="100%" height="300px" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject x="0" y="0" width="1200" height="300">
-      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 20px; overflow: hidden; width: 100%; height: 100%;">
-        <img src="void-banner.png" alt="Void Crafters Banner" style="width: 100%; height: 100%; object-fit: cover;" />
-      </div>
-    </foreignObject>
-  </svg>
+  <img src="rounded-void-banner.png" alt="Void Crafters Banner" width="100%" />
 </p>
 
 <h1 align="center">🌌 <span style="color:#c084ff;">Void Crafters</span> – Product Development in the Void</h1>
@@ -68,7 +62,7 @@ At VoidTech, we embrace **Extreme Programming (XP)** — a lightweight, highly e
 
 <!-- Banner inferior decorativo -->
 <p align="center">
-  <img src="void-banner-bottom.png" alt="Void Crafters Universe" width="80%" style="border-radius: 12px;" />
+  <img src="rounded_void-banner-bottom.png" alt="Void Crafters Universe" width="80%" style="border-radius: 12px;" />
 </p>
 
 <p align="center">
