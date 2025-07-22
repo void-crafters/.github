@@ -3,7 +3,7 @@
   <img src="rounded_void_banner.png" alt="Void Crafters Banner" width="100%" />
 </p>
 
-<h1 align="center">🌌 <span style="color:#c084ff;">Void Crafters</span> – Product Development in the Void</h1>
+<h1 align="center">🌌 <span style="color:#c084ff;">Void Crafters</span> – Product Development</h1>
 
 <p align="center">
   <em style="color:#e0d5ff;">Exploring the unknown to build the future.</em>
